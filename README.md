@@ -1,6 +1,6 @@
 # LatinGenerator
 
-A nonsense latin sentence generator to impress your family, firends and coworkers!
+A nonsense latin sentence generator to impress your family, friends and coworkers!
 
 ## Getting Started
 
